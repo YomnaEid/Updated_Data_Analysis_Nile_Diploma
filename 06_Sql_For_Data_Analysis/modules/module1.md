@@ -25,7 +25,7 @@ SQL (Structured Query Language) is a programming language designed for managing 
 - Aggregate functions for summarizing data
 
 ### Popular DBMSs:
-<img width="1007" height="553" alt="image" src="https://github.com/user-attachments/assets/a856466e-66d2-4a49-8705-a388cb4721af" />
+<img width="1160" height="601" alt="image" src="https://github.com/user-attachments/assets/ce0fd9d8-f076-42d6-8e5d-96afc87bae30" />
 
 
 ## 1.2 Basic Queries: SELECT, FROM, WHERE
